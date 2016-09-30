@@ -1,11 +1,10 @@
 body {
-    background-color: lightblue;
-    background-image: "http://wallpapercave.com/wp/pEeUsp1.jpg";
+    background-image: url("http://wallpapercave.com/wp/pEeUsp1.jpg");
 }
 
 h1 {
 	
-    color: black;
+    color: white;
     text-align: center;
 	font-family: Verdana;
 	font-size: 28px;
@@ -40,6 +39,7 @@ h7 {
 }
 
 p {
+	color: white;
     font-family: verdana;
     font-size: 20px;
 }
